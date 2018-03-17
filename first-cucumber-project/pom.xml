@@ -4,7 +4,7 @@
 	<groupId>com.cbt</groupId>
 	<artifactId>first-cucumber-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
+<!-- Make sure to install cucumber plug in from the MarketPlace -->
 	<dependencies>
 <!-- Cucumber JVM: Java » 2.4.0 -->
 		<dependency>
